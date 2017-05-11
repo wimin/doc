@@ -1,0 +1,116 @@
+[
+  {
+    "id": "47ba0b07-9347-4693-b2b4-2818e2f8e9e5",
+    "name": "商业应用架构及其实践",
+    "sections": [
+      {
+        "id": "1cf69272-cc3b-44d7-aa15-5095bb9fec11",
+        "title": "CSS基础",
+        "introduction": "前端CSS基础知识，包括CSS语法基础、CSS常用属性",
+        "orderIndex": 0,
+        "tags": [
+          {
+            "name": "Web前端"
+          },
+          {
+            "name": "CSS基础"
+          },
+          {
+            "name": "CSS语法基础"
+          },
+          {
+            "name": "CSS常用属性"
+          }
+        ]
+      },
+      {
+        "id": "3dc94180-b6f1-4bd6-a71a-42859dbf5b99",
+        "title": "JavaScript基础 & jQuery & Ajax",
+        "introduction": "前端JavaScript基础知识，包括JavaScript语法基础、JavaScript面向对象、jQuery基础、Ajax",
+        "orderIndex": 0,
+        "tags": [
+          {
+            "name": "jQuery基础"
+          },
+          {
+            "name": "Ajax基础"
+          },
+          {
+            "name": "JavaScript基础"
+          },
+          {
+            "name": "JavaScript面向对象"
+          }
+        ]
+      },
+      {
+        "id": "6a512301-d673-4a7b-a2f4-14da9183cbf4",
+        "title": "Bootstrap实践",
+        "introduction": "Bootstrap框架简介，Bootstrap基本使用、Bootstrap常用组件",
+        "orderIndex": 0,
+        "tags": [
+          {
+            "name": "Bootstrap组件"
+          },
+          {
+            "name": "Bootstrap简介"
+          }
+        ]
+      },
+      {
+        "id": "a70f8759-82fa-4ee9-9cc7-150d4e6d65b3",
+        "title": "Editor.md & 文件上传",
+        "introduction": "富文本框编辑器简介、Markdown编辑器、图片上传",
+        "orderIndex": 0,
+        "tags": [
+          {
+            "name": "SpringBoot文件上传"
+          },
+          {
+            "name": "Markdown基础"
+          },
+          {
+            "name": "Editormd"
+          }
+        ]
+      },
+      {
+        "id": "b2595457-79a7-40d0-92b7-2b307a1d1c9e",
+        "title": "Spring Boot Controller & Repository",
+        "introduction": "SpringBoot框架简介、SpringBoot项目基础、SpringBootController基础、Spring Boot JPA Repository基础",
+        "orderIndex": 0,
+        "tags": [
+          {
+            "name": "JPARepository基础"
+          },
+          {
+            "name": "SpringBoot项目基础"
+          },
+          {
+            "name": "SpringBootController基础"
+          }
+        ]
+      },
+      {
+        "id": "db3e9b7d-f498-4bb0-a5db-38bcd65149a8",
+        "title": "HTML基础",
+        "introduction": "前端HTML基础知识，包括页面结构、常用标签",
+        "orderIndex": 0,
+        "tags": [
+          {
+            "name": "Web前端"
+          },
+          {
+            "name": "HTML标签"
+          },
+          {
+            "name": "HTML5页面结构"
+          },
+          {
+            "name": "HTML基础"
+          }
+        ]
+      }
+    ]
+  }
+]
